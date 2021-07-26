@@ -97,7 +97,7 @@ h1 {
 @keyframes race {
     0%, 100% {
         transform: translateY(0);
-        background-image: url("../Images/Icons/favicon-32x32.png");
+        background-image: url("../Images/Icons/smileyface2.png");
     }
     50% {
         transform: translateY(330px);
